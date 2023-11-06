@@ -1,7 +1,7 @@
 # MMFs
 *Exploring all the ways you can abuse memory mapped files in windows.*
 
-This started as a bug I found durent a code review, where I discovered a dev had left their memory mapped file set to "everyone".
+This started as a bug I found during a code review, where I discovered a dev had left their memory mapped file set to "everyone".
 
 It got me curious what else could be discovered in this dark corner of the OS.
 
